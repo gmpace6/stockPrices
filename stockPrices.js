@@ -14,4 +14,4 @@ function best(prices) {
 return maxProfit
 }
 
-console.log(best(prices))
+console.log(`maxProfit = ${best(prices)}`)
